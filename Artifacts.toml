@@ -1,0 +1,6 @@
+[pyjulia_src_julia]
+git-tree-sha1 = "8654eeff06dfbf1d593f2551a0f4807a011d2d27"
+
+    [[pyjulia_src_julia.download]]
+    url = "https://github.com/JuliaPy/pyjulia/archive/822d1e3ea7e90d37691724e1bb471dc143a1ca0a.tar.gz"
+    sha256 = "b4ebc1945d3a76414c6a6f2c178ff9adda7e142745fd6875793687dd4bafd4ae"
